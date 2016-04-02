@@ -1,0 +1,22 @@
+{
+  "name": "basicjs",
+  "version": "1.0.0",
+  "description": "walking thru learning js, 3rd edition (2016)",
+  "main": "main.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerry-dumblauskas/basicjs.git"
+  },
+  "author": "Jerry Dumblauskas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerry-dumblauskas/basicjs/issues"
+  },
+  "homepage": "https://github.com/jerry-dumblauskas/basicjs#readme"
+}
