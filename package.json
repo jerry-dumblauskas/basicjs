@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jerry-dumblauskas/basicjs/issues"
   },
-  "homepage": "https://github.com/jerry-dumblauskas/basicjs#readme"
+  "homepage": "https://github.com/jerry-dumblauskas/basicjs#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }

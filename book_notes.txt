@@ -1,0 +1,6 @@
+install gulp globally
+npm install -g gulp
+
+You’ll only need to install Gulp globally once for each system you develop on. Then, for each project, you’ll need a local Gulp, so from your project root, run npm install --save-dev gulp (Gulp is an example of a dev dependency: your app won’t need it to run, but you’ll use it to help with your development process). Now that Gulp has been installed, we create a Gulpfile (gulpfile.js):
+
+?? why is this?
