@@ -1,0 +1,10 @@
+Angular pieces
+
+Modules	-- containers for your app, can be nested
+Config -- config options, so you can inject params
+Routes -- navigate, and set up controllers and templates
+Views -- what you see
+$scope -- glue between view and controller
+Controller -- what the view can use to show stuff
+Directive -- create custom, reusable elements
+Service -- common functionality (like Models!!!)
